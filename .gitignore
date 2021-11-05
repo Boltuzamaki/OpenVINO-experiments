@@ -1,0 +1,6 @@
+flowers/
+__pycache__
+*.csv
+*.h5
+*.png
+*.jpg
